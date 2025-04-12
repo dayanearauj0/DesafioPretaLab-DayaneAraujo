@@ -2,7 +2,7 @@
 Por meio de prompts, o usuário alimentará informações e no fim aparecerá
 um ranking de medalhas por países. 
 
-# linguagen usada JavaScript
+# Linguagem usada JavaScript
 
 ## Meus dados:
 ### Nome completo: Dayane Carla de Araújo Melo
